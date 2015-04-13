@@ -1,0 +1,33 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Shlomi.mapz._2.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="set_default_map" Type="System.String" Scope="User">
+      <Value Profile="(Default)">GoogleSatelliteMap</Value>
+    </Setting>
+    <Setting Name="set_default_zoom" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">9</Value>
+    </Setting>
+    <Setting Name="set_default_grid" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="debuger" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="def_lat" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">32.066158</Value>
+    </Setting>
+    <Setting Name="def_lon" Type="System.Double" Scope="User">
+      <Value Profile="(Default)">34.777819000000022</Value>
+    </Setting>
+    <Setting Name="display_grid" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="display_debuger" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="display_position" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
